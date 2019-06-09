@@ -1,0 +1,1 @@
+/home/yixi/work/language/makefile/project/build/common/common.o  /home/yixi/work/language/makefile/project/build/common/common.dep :  src/common.c src/../inc/common.h
